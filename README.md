@@ -26,7 +26,7 @@ Bu proje; **React 19** tabanlı bir frontend ve **Spring Boot 3** tabanlı bir b
 
 ```
 cd korona
-./mvnw spring-boot:run veya mvn spring-boot:run
+mvn spring-boot:run veya ./mvnw spring-boot:run
  ```
 
 Uygulama çalışınca erişim adresi: http://localhost:8080
@@ -62,7 +62,7 @@ Uygulama çalışınca erişim adresi: http://localhost:3000
 **Backend:**
 ```
 cd korona
-./mvnw test veya mvnw.cmd test
+mvnw.cmd test veya ./mvnw test
 ```
 **Frontend:**
 ```
