@@ -2,7 +2,7 @@ import React from 'react';
 import { LineChart, Line, XAxis, YAxis, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
 /**
- * CumulativeChart: Verilen günlük verilerden kümülatif (toplam) vaka, ölüm, iyileşen trendini gösterir.
+ * Verilen günlük verilerden kümülatif (toplam) vaka, ölüm, iyileşen trendini gösterir.
  */
 
 export default function CumulativeChart({ data }) {
